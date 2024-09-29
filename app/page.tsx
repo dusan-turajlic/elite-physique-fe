@@ -20,7 +20,6 @@ import {
   GridRowEditStopReasons,
   GridSlots,
   GridRowEditStopParams,
-  GRID_CHECKBOX_SELECTION_COL_DEF,
 } from '@mui/x-data-grid';
 import {
   randomTraderName,
