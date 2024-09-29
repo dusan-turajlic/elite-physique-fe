@@ -20,12 +20,13 @@ import {
   GridRowEditStopReasons,
   GridSlots,
   GridRowEditStopParams,
-  GridCellParams,
+  GRID_CHECKBOX_SELECTION_COL_DEF,
 } from '@mui/x-data-grid';
 import {
   randomTraderName,
   randomId,
 } from '@mui/x-data-grid-generator';
+import { getExcersices } from './requests';
 
 const initialRows: GridRowsProp = [
   {
@@ -94,6 +95,7 @@ function EditToolbar(props: EditToolbarProps) {
 export default function Home() {
   const [rows, setRows] = React.useState(initialRows);
   const [rowModesModel, setRowModesModel] = React.useState<GridRowModesModel>({});
+  getExcersices('elite_physique');
 
   const handleRowEditStop: GridEventListener<'rowEditStop'> = (
     params: GridRowEditStopParams,

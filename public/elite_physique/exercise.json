@@ -1,0 +1,362 @@
+{
+    "chest": [
+        {
+            "id": "1dcec577-b0ad-4f1d-a156-5a5ffdccc877",
+            "name": "Dumbbell Chest Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "7111799e-798f-424f-bc46-e75ba49dc24d",
+            "name": "Incline Dumbbell Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "9f829a87-8662-46f5-974a-3df102cc0574",
+            "name": "Decline Smith Machine Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "75eb0316-dba9-4d82-946b-d5d766550e93",
+            "name": "Cable Flyes",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "c1221295-f84f-49e5-8b11-47d9cb03937f",
+            "name": "Pec Deck Machine",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "569ca269-94a5-4567-ae9b-a7fb5d4b7dab",
+            "name": "Incline Smith Machine Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "66c5c9f3-3f9e-4a73-b699-690afdc58b6e",
+            "name": "Dumbbell Pullover",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "701c16d0-8b32-4a8b-9ae5-812c72dad72c",
+            "name": "Close-Grip Bench Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "75b72c13-095c-42f8-9476-5bc555c08ff7",
+            "name": "Chest Dips",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "44f95bb4-dc95-4d61-93cc-4f6246d16862",
+            "name": "Machine Chest Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        }
+    ],
+    "back": [
+        {
+            "id": "9b7a1ad2-cf9b-4aa3-a567-26e5a7f74a83",
+            "name": "Lat Pulldown",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "3a00da38-0f16-4077-9b1a-25820aa8035c",
+            "name": "Seated Row Machine",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "2b640789-24c3-4d12-b978-70ab1667cb0e",
+            "name": "T-Bar Row",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "47b2f2fb-062d-4671-bbad-f8e2553997f0",
+            "name": "Dumbbell Row",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "74d251a0-f5f3-4204-bc80-173579c1b28b",
+            "name": "Smith Machine Bent-Over Row",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "f97b3fd7-1052-45ac-828b-38e6a8396b55",
+            "name": "Cable Pull-Over",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "6a3bc1fa-df2e-4a9f-84bc-e85cb6749d6d",
+            "name": "Rack Pull",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "1307cb85-96d9-45f8-aea5-73b0813e95cb",
+            "name": "One-Arm Lat Pulldown",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "46d2b618-ff09-4eb4-8085-3af96b4d992f",
+            "name": "Machine Assisted Pull-Up",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "01df2c6e-1a68-4504-8c77-647e96410af7",
+            "name": "Close-Grip Lat Pulldown",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        }
+    ],
+    "legs": [
+        {
+            "id": "d5fc7343-b9b6-44e7-b147-ce957a8b5212",
+            "name": "Bulgarian Split Squat",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "55e485c5-bf23-497f-a169-74aaabde45a5",
+            "name": "Smith Machine Squat",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "5da56642-fca7-4169-ad2e-142ac2f3b791",
+            "name": "Leg Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "61f5a4a6-5c71-49fd-ad24-79d61d61de26",
+            "name": "Romanian Deadlift",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "037ccc55-cb0e-40e8-b5f6-6e515f6f3920",
+            "name": "Walking Lunges",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "b848aca4-89c0-488d-83be-7b3b1581203e",
+            "name": "Leg Extension",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "0a3b752e-f1ba-4e48-b43b-228e1f442b2d",
+            "name": "Leg Curl",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "44d973eb-d309-482f-bd80-d137010dd6dc",
+            "name": "Hack Squat Machine",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "40c33423-059d-4fe3-a3c5-0d661f23b208",
+            "name": "Calf Raise Machine",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "5786b5fc-bd00-4bc0-b7bb-d03ebff4ec5b",
+            "name": "Smith Machine Lunge",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        }
+    ],
+    "shoulders": [
+        {
+            "id": "8d707aa5-7f24-439f-b204-4ed610a9e7c4",
+            "name": "Dumbbell Shoulder Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "71c3491a-9b43-4524-8c18-1625ff9138e5",
+            "name": "Lateral Raises",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "abc0a946-7178-4ff4-99a4-6dbdf46b7b86",
+            "name": "Front Dumbbell Raise",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "b302d1be-c78b-4b53-9a65-cb6e2ef4ec91",
+            "name": "Smith Machine Overhead Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "e5c52979-2a44-42d5-81fb-9b0f8e353ed8",
+            "name": "Cable Lateral Raises",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "12bc3d5c-330b-40c3-b136-e0d0d5d004b2",
+            "name": "Arnold Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "306061e0-2da5-40c5-b6a2-734376bde813",
+            "name": "Dumbbell Shrugs",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "4e165ab8-657e-4da6-95db-4e1f127e649d",
+            "name": "Reverse Pec Deck Flyes",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "fe5d00d5-7eb9-4f42-97ed-ea8a56d31d35",
+            "name": "Cable Face Pull",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "f0d82d7b-b83f-4621-8f16-0ed440a1e87f",
+            "name": "Machine Shoulder Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        }
+    ],
+    "arms": [
+        {
+            "id": "2a7051c1-2998-451f-88e6-65862e710ac2",
+            "name": "Barbell Curl",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "47b7397d-a5af-4b84-b419-0f064dc263d2",
+            "name": "Dumbbell Curl",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "5974ef24-ffcc-4bd8-84af-adf91e9a5904",
+            "name": "Concentration Curl",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "294a1e21-115f-4ae7-871f-f2412bda76bc",
+            "name": "Tricep Cable Pushdown",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "8da4008a-a067-4582-9391-da82257b7e60",
+            "name": "Overhead Dumbbell Extension",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "7292e5c3-a579-4c04-9d67-5af821235789",
+            "name": "Smith Machine Close-Grip Bench Press",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "91fb4432-bf33-48bd-b47a-4190e7da932b",
+            "name": "Preacher Curl Machine",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "e5414fa1-1f16-418f-92b3-6e4d8d05d7ca",
+            "name": "Reverse Grip Tricep Pushdown",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "4d527b1f-b4ff-41f1-a325-09a6fa15c299",
+            "name": "Hammer Curl",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        },
+        {
+            "id": "1460a7f0-8dd5-4d45-b5a7-1539f66dc0f2",
+            "name": "Cable Tricep Kickbacks",
+            "video": "",
+            "created_at": "2024-09-29T00:00:00",
+            "updated_at": "2024-09-29T00:00:00"
+        }
+    ]
+}
